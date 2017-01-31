@@ -1,0 +1,7 @@
+User Stories
+
+Rick is a student with no time and wants an app to hopefully make a successful
+schedule for school and work. He provide details about his schedule and habits
+to the app. The app generates a schedule for rick to follow. He is notified of
+busy weeks and days coming up. He also receives notifications during his free
+time recommending him to study or to complete other tasks.

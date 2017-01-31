@@ -1,0 +1,7 @@
+Problem Statement
+
+Many college students struggle to manage there time and become overwhelmed
+with school and work. The Student Scheduler app will allows user to plan out
+there schedules for homework, quizzes, test, and work. the app will give the
+user heads up when they have a busy week coming up and give them
+recommendations about how to use there free time for studying and relaxing.
